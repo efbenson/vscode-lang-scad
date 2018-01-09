@@ -32,7 +32,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(if|else|for|intersection_for|assign|render|function|include|use)\b</string>
+			<string>\b(if|else|for|intersection_for|assign|render|function|include|use|module)\b</string>
 			<key>name</key>
 			<string>keyword.control.scad</string>
 		</dict>
